@@ -1,5 +1,5 @@
 # raspberry-os
-install Raspbian using OSX
+install Raspbian using macOS X
 
 ***
 
