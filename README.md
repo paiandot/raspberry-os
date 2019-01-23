@@ -1,7 +1,7 @@
 # raspberry-os
 install Raspbian using OSX
 
-
+***
 
 ### create Raspbian image
 ```sh make-image.sh```  
