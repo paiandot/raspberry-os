@@ -11,5 +11,7 @@ please modify disk_path and image variable in the file before running the shell 
 
 ### auto network setting 
 please modify volumn_path and image variable in the file before running the shell script.  
-```sh auto-network-setting.sh```  
+```sh auto-network-setting.sh```   
 
+### install korean in raspberry
+```sh install-korean.sh```
