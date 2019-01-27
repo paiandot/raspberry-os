@@ -15,3 +15,7 @@ please modify volumn_path and image variable in the file before running the shel
 
 ### install korean in raspberry
 ```sh install-korean.sh```
+
+
+### install APM(Apache, PHP, MySQL) in raspberry
+```sh install-apm.sh```
